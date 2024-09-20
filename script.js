@@ -1,4 +1,3 @@
-// console.log("hii");
 const els = document.querySelector("img");
 const btnEl = document.querySelector("button");
 console.log(els);
